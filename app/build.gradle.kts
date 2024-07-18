@@ -13,7 +13,7 @@ android {
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
-        
+
         vectorDrawables.useSupportLibrary = true
     }
 
@@ -36,6 +36,11 @@ android {
     buildFeatures {
         viewBinding = true
     }
+}
+
+repositories {
+    google()
+    mavenCentral()
 }
 
 dependencies {
