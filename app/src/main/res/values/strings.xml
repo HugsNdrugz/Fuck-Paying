@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fuck Paying</string>
+    <string name="generated_email">Generated email: %1$s</string>
+    <string name="generated_phone">Generated phone number: %1$s</string>
+    <string name="registration_failed_message">Registration failed. Please try again.</string>
+    <string name="network_error_message">Network error. Please check your internet connection.</string>
+    <!-- Add more strings as needed -->
+</resources>
